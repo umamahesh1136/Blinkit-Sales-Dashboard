@@ -52,19 +52,6 @@ These measures power the dashboard’s KPIs and visual comparisons.
 
 ---
 
-## 📂 Repository Structure
-├── data/
-│ └── blinkit_grocery.csv
-├── powerbi/
-│ └── Blinkit_Sales_Report.pbix
-├── docs/
-│ └── BLINKIT_SALES_DASHBOARD.pdf
-├── images/
-│ └── data_model.png
-└── BUSINESS_INSIGHTS.md
-
----
-
 ## ⚙️ How to Use
 1. Open `Blinkit_Sales_Report.pbix` in **Power BI Desktop**.  
 2. Load data from `data/blinkit_grocery.csv`.  
